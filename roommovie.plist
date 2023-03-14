@@ -1,0 +1,39 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://fv9-2.failiem.lv/down.php?cf&i=js8udyeq5&n=%D8%BA%D8%B1%D9%81%D8%A9+%D8%A7%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85_1.5.0_1678766900.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://i.top4top.io/p_2629zj4861.png</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>jb.zini.tevi</string>
+                        <key>bundle-version</key>
+                        <string>1.5.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>غرفة الأفلام عزيز </string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
